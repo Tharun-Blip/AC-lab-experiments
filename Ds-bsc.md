@@ -91,7 +91,7 @@ plt.show()
 <img width="1217" height="727" alt="image" src="https://github.com/user-attachments/assets/e3fc8634-e5a5-4ce3-b369-476f82caa805" />
 
 ## Table:
-![WhatsApp Image 2025-10-29 at 20 01 28_0afa8696](https://github.com/user-attachments/assets/8c5dfc79-1cd6-4551-9f39-60a82daffcb6)
+![WhatsApp Image 2025-11-27 at 19 08 05_19e666cc](https://github.com/user-attachments/assets/eff0a006-cbb4-451b-bc36-243b23bac792)
 
 
 ## Result:
